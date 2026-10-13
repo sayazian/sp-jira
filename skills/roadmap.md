@@ -1,5 +1,7 @@
 # Roadmap Visualization Skill
 
+For a current planned-versus-actual comparison, use [sp-roadmap-progress/SKILL.md](sp-roadmap-progress/SKILL.md). This file remains the shared baseline visual and schedule specification.
+
 ## Purpose
 Reproduce and update the **Standard Pioneer Development Roadmap** infographic as a single, high-resolution PNG (and optionally SVG/PDF). This is a **repeatable build specification**, not a request to regenerate a loosely similar AI illustration. Every visual element should be generated from structured data.
 

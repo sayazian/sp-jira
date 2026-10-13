@@ -24,6 +24,7 @@ This repository is the shared coordination workspace for Standard Pioneer founde
 - Keep `docs/milestones.md`, issue descriptions and `skills/roadmap.md` aligned when an approved schedule change occurs.
 - Never commit credentials, tokens, private founder compensation/equity discussions, or confidential customer information. This repository is public.
 - When producing the roadmap, use `skills/roadmap.md`; label plans and actuals distinctly.
+- For roadmap refreshes that include current progress, use `skills/sp-roadmap-progress/SKILL.md` to retrieve issue evidence and preserve the standard comparison format.
 - For each work session, use this brief structure: **Completed (with evidence)**; **Decisions / blockers**; **Next actions (owner, issue, deliverable, due session)**; **Milestone risks**.
 
 ## Cross-environment workflow
